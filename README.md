@@ -16,6 +16,19 @@ pip install -r requirements.txt
 
 </details>
 
+<details open>
+<summary>Usage</summary>
+
+To use controler of a game, follow these steps:
+
+1. Run the application, for exampple, the fruit_ninja.py file:
+```
+python fruit_ninja.py
+```
+
+
+</details>
+
 <details close>
 <summary>Lisence</summary>
 
